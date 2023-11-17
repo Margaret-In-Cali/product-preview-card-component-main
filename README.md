@@ -26,11 +26,11 @@ This is a solution to the [Product Preview Card Component challenge on Frontend 
 ### Links
 
 - Solution URL: <a href="https://www.frontendmentor.io/solutions/responsive-qr-code-page-1l9b_yNchZ" target="_blank">Frontend Mentor Solution</a>
-- Live Site URL: <a href="https://margaret-in-cali.github.io/qr-code-component-main/" target="_blank">GitHub Pages</a>
+- Live Site URL: <a href="https://margaret-in-cali.github.io/product-preview-card-component-main/" target="_blank">View on GitHub</a>
 
 ## My process
 
-I enjoyed this project. It was a little more involved than the QR Code challenge. I made sure to add alt text to all images (a task I missed in the last challenge), and I relied more heavily on block elements instead of making everything a <div>, as someone in the community suggested to me last time.
+I enjoyed this project. It was a little more involved than the QR Code challenge. I made sure to add alt text to all images (a task I missed in the last challenge), and I relied more heavily on block elements instead of making everything a div, as someone in the community suggested to me last time.
 
 ### Built with
 
